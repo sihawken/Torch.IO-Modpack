@@ -2,6 +2,6 @@
 !options.txt
 !optionsof.txt
 !.gitignore
-!scripts/
-!config/
-!saves/
+!./scripts/
+!./config/
+!./saves/
