@@ -1,0 +1,80 @@
+{
+  "combos": [
+    {
+      "name": "big_mac",
+      "layers": [
+        "kitchen:bread_slice",
+        "kitchen:cheese_slice",
+        "kitchen:roast_beef",
+        "kitchen:lettuce_leaf",
+        "kitchen:bread_slice",
+        "kitchen:roast_beef",
+        "kitchen:lettuce_leaf",
+        "kitchen:bread_slice"
+      ],
+      "rarity": "Rare",
+      "extra_health": 2,
+      "translate_name": true
+    },
+    {
+      "name": "blt_bread",
+      "layers": [
+        "kitchen:bread_slice",
+        "kitchen:bacon_cooked",
+        "kitchen:lettuce_leaf",
+        "kitchen:tomato_slice",
+        "kitchen:bread_slice"
+      ],
+      "rarity": "Uncommon",
+      "extra_health": 1,
+      "translate_name": true
+    },
+    {
+      "name": "blt_toast",
+      "layers": [
+        "kitchen:toast",
+        "kitchen:bacon_cooked",
+        "kitchen:lettuce_leaf",
+        "kitchen:tomato_slice",
+        "kitchen:toast"
+      ],
+      "rarity": "Uncommon",
+      "extra_health": 1,
+      "translate_name": true
+    },
+    {
+      "name": "only_bread",
+      "layers": [
+        "kitchen:bread_slice",
+        "kitchen:bread_slice"
+      ],
+      "rarity": "Common",
+      "extra_health": 0,
+      "translate_name": true
+    },
+    {
+      "name": "only_toast",
+      "layers": [
+        "kitchen:toast",
+        "kitchen:toast"
+      ],
+      "rarity": "Common",
+      "extra_health": 0,
+      "translate_name": true
+    },
+    {
+      "name": "veggie",
+      "layers": [
+        "kitchen:bread_slice",
+        "kitchen:carrot_slice",
+        "kitchen:lettuce_leaf",
+        "kitchen:tomato_slice",
+        "kitchen:cheese_slice",
+        "kitchen:bread_slice"
+      ],
+      "rarity": "Rare",
+      "extra_health": 2,
+      "translate_name": true
+    }
+  ]
+}

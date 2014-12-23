@@ -1,0 +1,62 @@
+{
+    "data":[
+        {
+            "name":"Electrical",
+            "color":8092539,
+            "ingredient":"EnderIO:itemAlloy;0",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        },{
+            "name":"Energetic",
+            "color":16552492,
+            "ingredient":"EnderIO:itemAlloy;1",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        },{
+            "name":"Vibrant",
+            "color":9614398,
+            "ingredient":"EnderIO:itemAlloy;2",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        },{
+            "name":"Redstone Alloy",
+            "color":7411993,
+            "ingredient":"EnderIO:itemAlloy;3",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        },{
+            "name":"Conductive",
+            "color":8472650,
+            "ingredient":"EnderIO:itemAlloy;4",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        },{
+            "name":"Pulsating",
+            "color":2711862,
+            "ingredient":"EnderIO:itemAlloy;5",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        },{
+            "name":"Dark Steel",
+            "color":3881787,
+            "ingredient":"EnderIO:itemAlloy;6",
+            "growthTime":2400,
+            "tier":1,
+            "ingredientAmount":32,
+            "powerPerStage":4000
+        }
+        
+    ]
+}

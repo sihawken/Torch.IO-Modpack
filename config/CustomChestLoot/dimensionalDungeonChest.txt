@@ -1,0 +1,2 @@
+count=0-0
+contents=MineFactoryReloaded:safarinet.jailer;0;1-1;15,MineFactoryReloaded:rubberwood.sapling;0;1-8;70,MineFactoryReloaded:pinkslime;0;1-1;1

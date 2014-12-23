@@ -1,0 +1,5 @@
+minecraft:stone
+minecraft:netherrack
+minecraft:lava
+minecraft:flowing_lava
+minecraft:torch

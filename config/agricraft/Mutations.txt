@@ -1,0 +1,16 @@
+#Define mutations here: <mutation>=<parent1>+<parent2>
+#To specify a crop, write <mod>:<cropname>:<meta>, all in lowercase (meta is optional)
+#You can these values from NEI, the data you put here will be corrected up to a certain level, but you should always try to use the values NEI gives you
+#For example if you write harvestcraft:tomato, it will be corrected to harvestcraft=tomatoseedItem, or if you write minecraft:dandelion, it will become AgriCraft:seedDandelion
+AgriCraft:seedSugarcane=minecraft:wheat_seeds+AgriCraft:seedCarrot
+minecraft:pumpkin_seeds=AgriCraft:seedPotato+AgriCraft:seedCarrot
+minecraft:melon_seeds=AgriCraft:carrot+minecraft:pumpkin_seeds
+AgriCraft:seedPoppy=AgriCraft:seedSugarcane+minecraft:pumpkin_seeds
+AgriCraft:seedDandelion=AgriCraft:seedSugarcane+minecraft:melon_seeds
+AgriCraft:seedOrchid=AgriCraft:seedPoppy+AgriCraft:seedDandelion
+AgriCraft:seedAllium=AgriCraft:seedPoppy+AgriCraft:seedOrchid
+AgriCraft:seedTulipRed=AgriCraft:seedPoppy+AgriCraft:seedAllium
+AgriCraft:seedTulipOrange=AgriCraft:seedDaisy+AgriCraft:seedOrchid
+AgriCraft:seedTulipWhite=AgriCraft:seedDaisy+AgriCraft:seedDandelion
+AgriCraft:seedTulipPink=AgriCraft:seedAllium+AgriCraft:seedDandelion
+AgriCraft:seedDaisy=AgriCraft:seedDandelion+AgriCraft:seedOrchid
