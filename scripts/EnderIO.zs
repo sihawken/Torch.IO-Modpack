@@ -1,7 +1,5 @@
 print("Applying Torch.IO EnderIO tweaks");
 
-# All of the var names will be setup here.
-
 #EnderIO items
 val basicGear = <EnderIO:itemMachinePart:1>;
 val electricalSteel = <EnderIO:itemAlloy>;
