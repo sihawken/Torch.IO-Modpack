@@ -85,14 +85,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Cave Finder:46
-key_Redstone:19
-key_XRay:45
-key_Fullbright:38
-key_Fly:0
-key_Coords:36
-key_Fly Speed +:0
-key_Fly Speed -:0
 key_Zoom:29
 key_key.hover:50
 key_Draw Weapons:-98
