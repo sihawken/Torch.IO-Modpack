@@ -120,7 +120,6 @@ key_key.tzoom:44
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
-key_invtweaks.key.sort:19
 key_key.mw_open_gui:50
 key_key.mw_new_marker:210
 key_key.mw_next_map_mode:49

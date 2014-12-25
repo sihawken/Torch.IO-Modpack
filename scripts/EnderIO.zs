@@ -12,6 +12,9 @@ val stirlingGenerator = <EnderIO:blockStirlingGenerator>;
 val combustionGenerator = <EnderIO:blockCombustionGenerator>;
 val sagMill = <EnderIO:blockSagMill>;
 val alloySmelter = <EnderIO:blockAlloySmelter>;
+val farmingStation = <EnderIO:blockFarmStation>;
+val fluidTank = <EnderIO:blockTank>;
+val pressurizedFluidTank = <EnderIO:blockTank:1>;
 
 #Other items
 val bcStoneGear = <BuildCraft|Core:stoneGearItem>;
@@ -126,3 +129,9 @@ recipes.remove(sagMill);
 mods.nei.NEI.hide(sagMill);
 recipes.remove(alloySmelter);
 mods.nei.NEI.hide(alloySmelter);
+recipes.remove(farmingStation);
+mods.nei.NEI.hide(farmingStation);
+recipes.remove(fluidTank);
+mods.nei.NEI.hide(fluidTank);
+recipes.remove(pressurizedFluidTank);
+mods.nei.NEI.hide(pressurizedFluidTank);
