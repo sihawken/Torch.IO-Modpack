@@ -4,3 +4,5 @@
 !.gitignore
 !scripts/
 !config/
+!chemlab_addons/
+!resources/
