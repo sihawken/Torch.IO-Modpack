@@ -87,11 +87,12 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Zoom:29
 key_key.hover:50
-key_Draw Weapons:-98
+key_Draw Weapons:19
 key_Special:44
 key_keybind.calendar.desc:46
 key_Tool Increase:201
 key_Tool Decrease:209
+key_key.open_ibench.desc:46
 key_key.open_menu:19
 key_Pneumatic Helmet Options:33
 key_Pneumatic Helmet Hack:35
@@ -113,10 +114,6 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.tarmor:24
-key_key.tgoggles:34
-key_key.tbelt:48
-key_key.tzoom:44
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37

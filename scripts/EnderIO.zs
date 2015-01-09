@@ -127,12 +127,9 @@ recipes.remove(sagMill);
 mods.nei.NEI.hide(sagMill);
 recipes.remove(alloySmelter);
 mods.nei.NEI.hide(alloySmelter);
-<<<<<<< HEAD
 recipes.remove(farmingStation);
 mods.nei.NEI.hide(farmingStation);
 recipes.remove(fluidTank);
 mods.nei.NEI.hide(fluidTank);
 recipes.remove(pressurizedFluidTank);
 mods.nei.NEI.hide(pressurizedFluidTank);
-=======
->>>>>>> ddf6a92d9a65a6d8c3962efb5280a4884b260d52
